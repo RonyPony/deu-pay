@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "DeuPay",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
